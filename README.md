@@ -32,15 +32,7 @@ J’assure :
 - 🔗 [n1c0.eu](https://n1c0.eu) — Portfolio & projets
 - 🔗 [Huniko.dev](https://huniko.dev) — Plateforme en cours de développement
 
----
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1c0dev&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1c0dev&layout=compact&theme=tokyonight)
-
----
 
 > ✨ Projets publics en cours de préparation.  
 > Abonne-toi pour suivre l’évolution et participer !
